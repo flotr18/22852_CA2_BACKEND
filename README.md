@@ -38,9 +38,6 @@ npm install
 
 ```
 
-
-OR 
-
 ## :email: Perform CRUD REQUESTS
 
 
